@@ -1,8 +1,8 @@
-### Hi there 👋
+## <div align="center">Hi there, I'm Timothée 👋</div>
 
-## About me
+### About me
 
-My name is Timothée Pluot and I'm a junior web developer. I'm passionate about design, art and Marvel. I'm flexible and I learn quickly. 
+My name is Timothée Pluot and I'm a French junior web developer. I'm passionate about design, art and Marvel. I'm flexible and I learn quickly. I'm currently studying web development after a degree in foreign languages (English and Spanish).
 
 🤝 You can hire me as Full Stack Dev / Front End Dev
 
