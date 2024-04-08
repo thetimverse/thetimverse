@@ -1,4 +1,4 @@
-## <div align="center">Hi there, I'm Timothée 👋</div>
+## <div align="center">Hi there, I'm Tim 👋</div>
 
 ### About me
 
