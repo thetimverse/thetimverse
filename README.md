@@ -2,9 +2,9 @@
 
 ### About me
 
-My name is Timothée Pluot and I'm a French junior web developer. I'm passionate about design, art, food and pop culture. I'm flexible and I learn quickly. I'm currently studying web development after a degree in foreign languages (English and Spanish).
+My name is Timothée Pluot and I'm a French junior web developer. I'm passionate about design, art, food and pop culture. I'm flexible and I learn quickly. I studied web development after a degree in foreign languages (English and Spanish) and I'm now working at Namkin.
 
-🤝 You can hire me as Full Stack Dev / Front End Dev
+🤝 Front End Dev (with full stack knowledge)
 
 👨‍💻 All of my projects are available at https://timotheepluot.fr
 
